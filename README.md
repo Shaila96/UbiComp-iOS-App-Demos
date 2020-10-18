@@ -7,12 +7,11 @@ Demonstration lessons from the lecture weeks for the Ubiquitous Computing course
 
 I have been Co-Instructor of the course for the last 3 years. I have been providing detailed demonstration and background theoretical knowledge on the core topics for iOS development. For example Basic Swift, UIKit, ViewController, Segue, TableView, AutoLayout, Webservices, MapKit, Location Service, Core Image, Notifications, Core ML, etc.
 
-More details on the course description page below:
 
+## Course Details
 ##### http://cpl.uh.edu/courses/ubicomp/fall2020/
 
-Check the demo recordings below:
-
+## Demo Recordings
 ##### https://drive.google.com/drive/folders/106IXC0JhYue4bGW8fPQWZc4I4ip7EYej
 
 
